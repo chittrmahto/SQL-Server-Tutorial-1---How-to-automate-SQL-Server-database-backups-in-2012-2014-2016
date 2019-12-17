@@ -1,0 +1,9 @@
+Steps: ---
+1. Open Sql Server Management Studio.
+2. Connect Database with credentials And Start "SQL Server Agent" (if not started).
+3. Create a Folder where you want to save backup.
+4. Go to Management and expend.
+5. Right Click on "Maintenance Plans" -> click on "Maintenance Plan Wizad".
+6. Flow the Process shown in video.
+
+Video URL : https://chittranjanmahto.blogspot.com/2019/08/sql-server-tutorial-1-how-to-automate.html
